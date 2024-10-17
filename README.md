@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acarnevale21&label=Profile%20views&color=20cd1d&style=flat" alt="acarnevale21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acarnevale21" alt="acarnevale21" /></a> </p>
-
 - 🔭 I’m currently working on [Live Chat API](https://github.com/ACarnevale21/live-chat-ac)
 
 <h3 align="left">Connect with me:</h3>
