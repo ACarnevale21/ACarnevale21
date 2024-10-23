@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Live Chat API](https://github.com/ACarnevale21/live-chat-ac)
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
